@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IdocProject</string>
+    <string name="Doctor">دكتور</string>
+    <string name="activity_title_about_us">من نحن</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="nav_call">اتصل بنا</string>
+    <string name="nav_logout">خروج</string>
+    <string name="nav_settings">الاعدادات</string>
+    <string name="nav_profile">الملف الشخصى</string>
+    <string name="nav_about_us">من نحن</string>
+    <string name="mesg">الرسائل</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="action_logout">الخروج</string>
+    <string name="action_clear_all">امسح الكل</string>
+    <string name="OurGoals">أهداهنا</string>
+    <string name="writemesg">اكتب لنا رسالتك :)</string>
+    <string name="send">ارسال</string>
+    <string name="svtxt">احفظ النص</string>
+    <string name="svimg">احفظ الصورة</string>
+    <string name="ctxt">تجاهل النص </string>
+    <string name="etimg">تعديل الصورة</string>
+    <string name="cancelimg">تجاهل الصورة</string>
+    <string name="etxt">تعديل </string>
+    <string name="register">معلومات عن الدكتور</string>
+    <string name="clinic">مكان العياده</string>
+    <string name="clinctxt">ضع رابط الخريطة </string>
+    <string name="closeDrawer"></string>
+    <string name="info">تجاهل النص</string>
+    <string name="inftxt">اكتب معلومات</string>
+    <string name="clinicCity">المدينة</string>
+    <string name="clinicPh">تليفون</string>
+    <string name="clinicad"></string>
+    <string name="speciality">اكتب تخصصك</string>
+    <string name="savspeciality">احفظ التخصص</string>
+
+</resources>
